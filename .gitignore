@@ -1,0 +1,23 @@
+*.o
+*.d
+*.a
+*.elf
+*.dol
+*.exe
+readme.txt
+changelog.txt
+installation.txt
+install.bat
+mtek-gdl logo.png
+mtek-gdl logo.svg
+SyncToy_ffd6d763-926c-4015-946f-0ebba55d5d96.dat
+makefile.pc
+lib
+prototypes
+gemhunt
+junk
+patches
+codeblocks templates
+tools
+examples
+docs
