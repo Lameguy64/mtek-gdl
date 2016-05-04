@@ -137,6 +137,13 @@ namespace Keyboard {
         KeyAlt		= 0x04,
     };
 
+	//! Keyboard lock state bit masks
+    enum KeyLocks {
+    	KeyNum		= 0x01,
+    	KeyCaps		= 0x02,
+    	KeyScroll	= 0x04,
+    };
+
 
     //! Keyboard event callback
     typedef void (KeyCallbackFunc(int, int, int, int));
@@ -232,6 +239,16 @@ namespace Keyboard {
 
 	//! Returns the last reported character pressed polled by gdl::PrepDisplay()
 	char GetChar();
+
+
+	//! Returns the status bits of the keyboard's lock states
+	/*!
+	 *  This function returns the status bits of the 3 lock states on the keyboard which can be tested individually
+	 *	by AND'ing against one of gdl::Keyboard::KeyLocks.
+	 *
+	 *	\note This function is only available in the Wii version of this library.
+	 */
+	short GetLockStates();
 
 }
 

@@ -751,7 +751,7 @@ gdl::Keyboard::KeyCallbackFunc* gdl::Keyboard::SetKeyCallback(KeyCallbackFunc* c
 
 bool gdl::Keyboard::Init(ConnectCallbackFunc* callback, const char* keyMap) {
 
-	if (!gdl::Keyboard::initialized) {
+	if (gdl::Keyboard::initialized) {
 
 		if (gdl::ConsoleActive)
 			printf("gdl: USB keyboard subsystem already initialized...");
@@ -837,5 +837,11 @@ char gdl::Keyboard::GetChar() {
 		return(false);
 
 	return(lastCharPressed);
+
+}
+
+short gdl::Keyboard::GetLockStates() {
+
+	return(gdl::Keyboard::lockStates);
 
 }
