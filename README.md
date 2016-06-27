@@ -8,6 +8,9 @@ If you're new to MTek-GDL, it is highly recommended that you start out with one 
 # Documentation
 Documentation of the library can be found as Doxygen blocks inside the header files. It is recommended to parse said files through Doxygen so you'll get yourself an HTML manual of the library.
 
+Example programs of this library can be found in this repository:
+https://github.com/Lameguy64/mtek-gdl-examples
+
 # Setting up the Wii Library
 Assuming that you already have DevkitPro with DevkitPPC already set up and ready to use, you first have to install the libraries provided within 3rdparty/libs-wii by simply running the makefile inside it. Once all the libraries have finished compiling, install them to your DevkitPPC toolchain by entering 'make install'.
 
