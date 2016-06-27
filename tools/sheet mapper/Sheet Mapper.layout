@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="..\include\mgdl-pc\mgdl-globals-internal.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="541" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include\mgdl-pc\mgdl-image.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="614" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include\mgdl-pc\mgdl-input.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4096" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="..\include\mgdl-pc\mgdl-main.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="699" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include\mgdl-pc\mgdl-types.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2786" topLine="68" />
+		</Cursor>
+	</File>
+	<File name="..\source\pc\mgdl-basic.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="654" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\source\pc\mgdl-globals.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="740" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\source\pc\mgdl-image.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3696" topLine="171" />
+		</Cursor>
+	</File>
+	<File name="..\source\pc\mgdl-input.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="314" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\source\pc\mgdl-main.cpp" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1426" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="..\source\pc\mgdl-texture.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="721" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="custom.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2366" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="custom.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="305" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="93" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="657" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="mgui.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30461" topLine="952" />
+		</Cursor>
+	</File>
+	<File name="mgui.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="366" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="57" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
